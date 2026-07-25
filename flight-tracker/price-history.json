@@ -15,7 +15,21 @@
   "targets": {
     "SYD_krw_2p": 5000000,
     "PRG_krw_2p": 9000000,
-    "note": "2인 합산 기준. 이 금액 이하로 떨어지면 알림에서 '🎯 목표가 도달'로 최우선 강조."
+    "note": "2인 합산 기준. 이 금액 이하로 떨어지면 알림에서 '🎯 목표가 도달'로 최우선 강조하고 푸시+이메일 동시 발송."
+  },
+  "search_links": {
+    "note": "매일 알림(푸시/이메일)에 항상 첨부. 특정 '핫딜'이 아니라 오늘 조건(날짜/좌석/인원)으로 라이브 검색 결과를 바로 보여주는 딥링크. 결제는 이 링크를 통해 항공사/OTA에서 사용자가 직접 진행.",
+    "SYD": "https://www.skyscanner.co.kr/transport/flights/icn/syd/260320/260330/?cabinclass=business&adults=2",
+    "PRG": "https://www.skyscanner.co.kr/transport/flights/icn/prg/260320/260330/?cabinclass=business&adults=2",
+    "SYD_airline_pages": {
+      "KE": "https://www.koreanair.com/flights/en/flights-from-seoul-to-sydney",
+      "OZ": "https://flyasiana.com",
+      "QF": "https://www.qantas.com/kr/ko/flight-deals/city-pairs.html/icn/syd/business"
+    },
+    "PRG_airline_pages": {
+      "KE": "https://www.koreanair.com/flights/en/flights-to-prague",
+      "OZ": "https://flyasiana.com"
+    }
   },
   "considered_and_rejected": {
     "madrid": {
