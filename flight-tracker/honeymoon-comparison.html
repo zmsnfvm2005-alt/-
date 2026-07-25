@@ -1,0 +1,248 @@
+<!doctype html>
+<title>신혼여행 항공권 비교 — 시드니 · 마드리드 · 프라하 · 파리</title>
+<style>
+  :root{
+    --ink:#17222B;
+    --paper:#F1EEE6;
+    --line:#B9AF9E;
+    --accent:#1E7F72;
+    --accent-warm:#C97A2B;
+    --muted:#6B6459;
+    --card:#FFFFFF;
+    --shadow: 0 1px 2px rgba(23,34,43,.06), 0 8px 24px rgba(23,34,43,.08);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --ink:#EDE7DC;
+      --paper:#141B21;
+      --line:#3A4048;
+      --accent:#5FCFC0;
+      --accent-warm:#E2954B;
+      --muted:#9C948A;
+      --card:#1B242B;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 28px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#EDE7DC; --paper:#141B21; --line:#3A4048; --accent:#5FCFC0;
+    --accent-warm:#E2954B; --muted:#9C948A; --card:#1B242B;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 28px rgba(0,0,0,.35);
+  }
+  :root[data-theme="light"]{
+    --ink:#17222B; --paper:#F1EEE6; --line:#B9AF9E; --accent:#1E7F72;
+    --accent-warm:#C97A2B; --muted:#6B6459; --card:#FFFFFF;
+    --shadow: 0 1px 2px rgba(23,34,43,.06), 0 8px 24px rgba(23,34,43,.08);
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family: Georgia, 'Iowan Old Style', 'Noto Serif KR', 'Times New Roman', serif;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .mono{
+    font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, 'Nanum Gothic Coding', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+  .wrap{ max-width: 980px; margin:0 auto; padding: 28px 20px 80px; }
+
+  /* manifest header */
+  .manifest{
+    border:1px solid var(--line); border-radius:10px;
+    padding:18px 20px; margin-bottom:28px;
+    display:flex; flex-wrap:wrap; gap:18px 32px; justify-content:space-between; align-items:flex-end;
+    background:var(--card); box-shadow:var(--shadow);
+  }
+  .manifest .brand{
+    text-transform:uppercase; letter-spacing:.14em; font-size:.72rem; color:var(--muted);
+    font-family: -apple-system, 'Segoe UI', sans-serif;
+  }
+  .manifest h1{
+    margin:.2em 0 0; font-size:1.5rem; font-weight:700; text-wrap:balance;
+  }
+  .manifest .field{ font-size:.82rem; color:var(--muted); }
+  .manifest .field b{ display:block; color:var(--ink); font-size:1rem; margin-top:2px; }
+
+  section h2{
+    font-size:1.05rem; text-transform:uppercase; letter-spacing:.08em;
+    color:var(--muted); font-family:-apple-system,'Segoe UI',sans-serif;
+    border-bottom:1px solid var(--line); padding-bottom:8px; margin:40px 0 18px;
+  }
+
+  /* recommendation stub */
+  .stub{
+    position:relative; display:flex; background:var(--card); border-radius:14px;
+    box-shadow:var(--shadow); overflow:hidden; border:1px solid var(--line);
+  }
+  .stub-main{ flex:1; padding:26px 28px; }
+  .stub-side{
+    width:180px; flex-shrink:0; background:var(--accent); color:var(--paper);
+    padding:26px 18px; display:flex; flex-direction:column; justify-content:space-between;
+    position:relative;
+  }
+  .stub-perf{
+    position:absolute; left:0; top:0; bottom:0; width:0;
+    border-left:2px dashed color-mix(in srgb, var(--paper) 55%, transparent);
+  }
+  .stub-side .tag{
+    font-family:-apple-system,'Segoe UI',sans-serif; text-transform:uppercase;
+    font-size:.68rem; letter-spacing:.12em; opacity:.85;
+  }
+  .stub-side .code{ font-family:ui-monospace,monospace; font-size:2.1rem; font-weight:700; margin-top:6px; }
+  .stub-side .sub{ font-size:.78rem; opacity:.9; margin-top:4px; }
+  .stub h3{ margin:0 0 6px; font-size:1.5rem; text-wrap:balance; }
+  .stub .lede{ color:var(--muted); font-size:.95rem; margin:0 0 16px; }
+  .why-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:14px 22px; }
+  .why-grid .item b{ display:block; font-family:-apple-system,'Segoe UI',sans-serif; font-size:.72rem;
+    text-transform:uppercase; letter-spacing:.06em; color:var(--accent); margin-bottom:3px; }
+  .why-grid .item span{ font-size:.92rem; }
+
+  /* runner-up note */
+  .note{
+    margin-top:16px; font-size:.88rem; color:var(--muted);
+    border-left:3px solid var(--accent-warm); padding:4px 0 4px 14px;
+  }
+  .note b{ color:var(--ink); }
+
+  /* comparison table */
+  .tablewrap{ overflow-x:auto; border:1px solid var(--line); border-radius:10px; background:var(--card); box-shadow:var(--shadow); }
+  table{ border-collapse:collapse; width:100%; min-width:760px; font-size:.88rem; }
+  thead th{
+    text-align:left; font-family:-apple-system,'Segoe UI',sans-serif; text-transform:uppercase;
+    letter-spacing:.05em; font-size:.68rem; color:var(--muted); font-weight:600;
+    padding:12px 14px; border-bottom:1px solid var(--line); white-space:nowrap;
+  }
+  tbody td{ padding:14px; border-bottom:1px solid var(--line); vertical-align:top; }
+  tbody tr:last-child td{ border-bottom:none; }
+  tbody tr.pick{ background: color-mix(in srgb, var(--accent) 8%, var(--card)); }
+  td.dest{ font-weight:700; font-size:.98rem; }
+  td.dest .flag{
+    display:inline-block; margin-top:4px; font-size:.68rem; font-family:-apple-system,sans-serif;
+    text-transform:uppercase; letter-spacing:.05em; color:var(--accent); font-weight:700;
+  }
+  td .num{ font-family:ui-monospace,monospace; }
+  td .dim{ color:var(--muted); font-size:.82rem; }
+  .badge{
+    display:inline-block; font-size:.72rem; padding:2px 8px; border-radius:20px;
+    font-family:-apple-system,sans-serif; font-weight:600;
+  }
+  .badge.good{ background:color-mix(in srgb, var(--accent) 18%, transparent); color:var(--accent); }
+  .badge.warn{ background:color-mix(in srgb, var(--accent-warm) 20%, transparent); color:var(--accent-warm); }
+  .badge.bad{ background:color-mix(in srgb, var(--muted) 18%, transparent); color:var(--muted); }
+
+  footer{
+    margin-top:44px; font-size:.85rem; color:var(--muted);
+    border-top:1px solid var(--line); padding-top:18px;
+  }
+  footer p{ margin:.4em 0; }
+  a{ color:var(--accent); }
+</style>
+
+<div class="wrap">
+
+  <div class="manifest">
+    <div>
+      <div class="brand">Honeymoon Itinerary — Comparative Dossier</div>
+      <h1>어디로 가야 할까: 4개 노선 실측 비교</h1>
+    </div>
+    <div class="field">여정<b class="mono">2026-03-20 → 03-30</b></div>
+    <div class="field">좌석<b>비즈니스 · 2인</b></div>
+    <div class="field">기준<b>인천(ICN) 출발</b></div>
+    <div class="field">최우선 고려<b>공황장애 · 장거리 비행</b></div>
+  </div>
+
+  <section>
+    <h2>최종 추천</h2>
+    <div class="stub">
+      <div class="stub-main">
+        <h3>프라하 (PRG) — 체코</h3>
+        <p class="lede">스페인이 주려던 "유럽 로맨틱 신혼여행"의 정서를 지키면서, 공황장애에 걸리는 두 항목(비행시간·좌석 개방감)에서 유럽 3곳 중 가장 유리합니다.</p>
+        <div class="why-grid">
+          <div class="item"><b>좌석</b><span>4곳 중 유일하게 <b>도어형 스위트</b>. 787-10 투입 시 커플/더블베드형 좌석 존재</span></div>
+          <div class="item"><b>총 비행시간</b><span>왕복 약 <b>24시간 15분~40분</b> — 유럽 옵션 중 최단(파리·마드리드보다 2시간+ 짧음)</span></div>
+          <div class="item"><b>경쟁 구조</b><span>대한항공 + 아시아나 2개사 취항 — 가격 추적 시 특가 포착 가능성 있음</span></div>
+          <div class="item"><b>가격 근거</b><span>대한항공 공식 시작가 2인 <span class="num">약 1,135만원</span> — 4곳 중 가장 구체적인 수치</span></div>
+        </div>
+        <div class="note"><b>솔직한 트레이드오프</b> — 시드니보다 편도 약 3시간, 총 비행시간 약 4시간 더 깁니다. 가격도 시드니 최저가 대비 2배 이상. "유럽 로맨틱"을 포기할 수 있다면 시드니가 여전히 비행시간·비용 모두 가장 가볍습니다.</div>
+      </div>
+      <div class="stub-side">
+        <div class="stub-perf"></div>
+        <div>
+          <div class="tag">Gate</div>
+          <div class="code">PRG</div>
+          <div class="sub">KE969/970 · OZ 신규취항</div>
+        </div>
+        <div>
+          <div class="tag">Runner-up</div>
+          <div class="sub" style="font-size:.92rem;font-weight:700;margin-top:2px;">시드니 (SYD)</div>
+          <div class="sub">최단 비행 · 최저가 유지 시</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>4개 목적지 실측 비교</h2>
+    <div class="tablewrap">
+      <table>
+        <thead>
+          <tr>
+            <th>목적지</th>
+            <th>직항 경쟁</th>
+            <th>편도 비행시간</th>
+            <th>왕복 총 비행</th>
+            <th>2인 비즈니스 가격</th>
+            <th>좌석 프라이버시</th>
+            <th>판정</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="dest">시드니 (SYD)<div class="flag">기준선</div></td>
+            <td>KE · OZ · QF<br><span class="dim">3개사</span></td>
+            <td class="num">약 10h15–11h35</td>
+            <td class="num">약 20–21h</td>
+            <td><span class="num">약 420만~650만원</span><br><span class="dim">OZ 특가 최저</span></td>
+            <td><span class="badge warn">도어 없음</span><br><span class="dim">QF 스태거드 &gt; KE 파티션 &gt; OZ 개방형</span></td>
+            <td><span class="badge good">최단·최저가</span></td>
+          </tr>
+          <tr class="pick">
+            <td class="dest">프라하 (PRG)<div class="flag">추천</div></td>
+            <td>KE · OZ<br><span class="dim">2개사</span></td>
+            <td class="num">약 13h~13h20 / 11h15–20</td>
+            <td class="num">약 24h15–40</td>
+            <td><span class="num">약 1,135만원</span><br><span class="dim">KE 공식 시작가 기준</span></td>
+            <td><span class="badge good">도어형 + 커플석</span><br><span class="dim">787-10 배정 시</span></td>
+            <td><span class="badge good">유럽 중 최선</span></td>
+          </tr>
+          <tr>
+            <td class="dest">파리 (CDG)</td>
+            <td>KE · OZ · AF<br><span class="dim">3개사(최다)</span></td>
+            <td class="num">약 14h20–25 / 12h15–20</td>
+            <td class="num">약 26h35–45</td>
+            <td><span class="num">약 760만~1,300만원+</span><br><span class="dim">추정 폭 넓음</span></td>
+            <td><span class="badge bad">도어 없음(확정)</span><br><span class="dim">KE 구형 2-3-2 배치 위험</span></td>
+            <td><span class="badge bad">이미지와 실제 괴리</span></td>
+          </tr>
+          <tr>
+            <td class="dest">마드리드 (MAD)</td>
+            <td>KE 단독<br><span class="dim">1개사</span></td>
+            <td class="num">약 13h~15h / 13h</td>
+            <td class="num">약 26–28h</td>
+            <td><span class="num">약 1,200만~1,800만원</span><br><span class="dim">추정, 확정가 미확인</span></td>
+            <td><span class="badge warn">도어 없음</span><br><span class="dim">파티션형</span></td>
+            <td><span class="badge bad">최장·최고가</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    <p><b>가격은 전부 추정치</b>입니다. 실측 확정가는 각 항공사 공식 예약 엔진에서 2026-03-20/03-30 실제 날짜로 재조회해야 합니다.</p>
+    <p>바르셀로나(아시아나 단독, 주2회)와 체코항공(2024년 폐업)은 노선 자체가 불안정하거나 존재하지 않아 비교에서 제외했습니다.</p>
+    <p>다음 단계: 가격 추적기를 <b>시드니 vs 프라하</b> 2개 노선 중심으로 재설정하고, 항공편명(KE969/970 등)까지 고정해 알림가와 실제 결제가의 괴리를 최소화할 예정입니다.</p>
+  </footer>
+
+</div>
