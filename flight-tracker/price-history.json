@@ -1,0 +1,37 @@
+{
+  "trip": {
+    "origin": "ICN",
+    "destinations": { "australia": "SYD", "czech": "PRG" },
+    "depart": "2026-03-20",
+    "return": "2026-03-30",
+    "cabin": "business",
+    "passengers": 2,
+    "note": "신혼여행. 왕복 약 10일. 10시간+ 장거리라 비즈니스 필수. 좌석이 넓고 프라이버시가 있는 기체(대형기 스위트/도어형)가 공황장애 부담을 줄여줌."
+  },
+  "targets": {
+    "SYD_krw_per_person": null,
+    "PRG_krw_per_person": null,
+    "note": "목표가 미설정. 값을 넣으면 그 이하로 떨어질 때 알림에서 강하게 강조됨."
+  },
+  "history": [
+    {
+      "date": "2026-07-25",
+      "SYD": {
+        "price_krw_per_person": 2150000,
+        "airline": "Asiana",
+        "stops": "직항 추정",
+        "confidence": "low",
+        "note": "인스타 특가 딜 기준. 비즈니스 왕복 215만원은 이례적으로 저렴 → 실제 예약창 재확인 필요. 통상가는 300~560만원대.",
+        "source": "instagram deal post / kayak.co.kr"
+      },
+      "PRG": {
+        "price_krw_per_person": 5676100,
+        "airline": "Korean Air (Prestige)",
+        "stops": "직항",
+        "confidence": "medium",
+        "note": "대한항공 프레스티지 왕복 1인. 경유(터키항공 등) 이용 시 더 저렴할 수 있으나 장거리 경유는 공황장애에 부담.",
+        "source": "koreanair.com / travelocity / kayak.co.kr"
+      }
+    }
+  ]
+}
