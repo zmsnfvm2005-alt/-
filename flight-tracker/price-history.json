@@ -289,6 +289,23 @@
         "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음. 이번에도 '아시아나 프라하 직항 없음' 언급 재등장했으나 계속 신뢰 안 함(기존 확인 사실과 배치). 역대 최저가 1,200만원 유지.",
         "source": "overseas.mofa.go.kr, trip.com, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-26T14:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 792만원보다 싼 확정가 없음. 역대 최저가 792만원 유지. (비용 절감 위해 이번부터 Agent 대신 직접 WebSearch 2건으로 확인)",
+        "source": "expedia.com, koreanair.com, momondo.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(일반 시세 2,300~3,100유로 재확인, 날짜 미지정). 역대 최저가 1,200만원 유지.",
+        "source": "cze.mofa.go.kr, kayak.co.kr, hotelscombined.co.kr"
+      }
     }
   ]
 }
