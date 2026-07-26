@@ -272,6 +272,23 @@
         "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음. 이번 검색결과가 '체코항공(Czech Airlines)도 직항 옵션'이라 언급했으나 이는 오류로 판단 — 체코항공은 2024년 폐업 확인됨(과거 조사). 아시아나 직항 없다는 언급도 마찬가지로 신뢰 안 함. 기존 'KE+OZ 2사 직항' 전제 유지. 역대 최저가 1,200만원 유지.",
         "source": "trip.com, kayak.co.kr, czechinsight.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-26T13:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 792만원보다 싼 확정가 없음. 아시아나 과거(2025년초) 프로모션가는 시기 불일치로 판정 제외. 역대 최저가 792만원 유지.",
+        "source": "australianfrequentflyer.com.au, loyaltylobby.com, koreanair.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음. 이번에도 '아시아나 프라하 직항 없음' 언급 재등장했으나 계속 신뢰 안 함(기존 확인 사실과 배치). 역대 최저가 1,200만원 유지.",
+        "source": "overseas.mofa.go.kr, trip.com, flyasiana.com"
+      }
     }
   ]
 }
