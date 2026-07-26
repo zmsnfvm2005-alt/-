@@ -323,6 +323,23 @@
         "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(KE969 동계스케줄 10:50 ICN→16:10 PRG 재확인, 요금은 미노출). 역대 최저가 1,200만원 유지.",
         "source": "trip.com, koreanair.com, airpaz.com, czechinsight.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-26T16:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 792만원보다 싼 확정가 없음. 역대 최저가 792만원 유지.",
+        "source": "airpaz.com, instagram.com, qantas.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(아시아나 92.3만원은 이코노미 최저가). 역대 최저가 1,200만원 유지.",
+        "source": "kayak.co.kr, flyasiana.com, milemoa.com"
+      }
     }
   ]
 }
