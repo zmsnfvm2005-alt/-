@@ -408,6 +408,23 @@
         "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(LAX-ICN 프레스티지 참고치만 확인, 무관 노선). 역대 최저가 1,200만원 유지.",
         "source": "businessclasstravel.us, businessclasssignal.com, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-26T21:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 792만원보다 싼 확정가 없음(콴타스 9월 출발 특가 581.5만원(1인 추정)은 날짜 다름 — 3월과 무관, 판정 제외). 역대 최저가 792만원 유지.",
+        "source": "flyasiana.com, qantas.com, instagram.com, skyscanner.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(카약 왕복 $606은 이코노미 추정). 역대 최저가 1,200만원 유지.",
+        "source": "hotelscombined.co.kr, kayak.com, skyscanner.co.kr, booking.com"
+      }
     }
   ]
 }
