@@ -102,6 +102,23 @@
         "note": "이번 시간 검색에서 1,200만원보다 확실히 싼 값을 못 찾음(날짜 지정 검색 결과 없음, 이코노미 최저가만 확인됨). 역대 최저가는 1,200만원 유지.",
         "source": "trip.com, skyscanner.co.kr, kayak.co.kr, hotelscombined.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-26T03:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 792만원보다 싼 확정가 없음. 아시아나 과거 프로모션(A$2,149 등)은 시기 불명확해 판정 제외. 역대 최저가 792만원 유지.",
+        "source": "australianfrequentflyer.com.au, loyaltylobby.com, airpaz.com, google flights"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(이코노미 헤드라인만 확인). 역대 최저가 1,200만원 유지.",
+        "source": "trip.com, kayak.co.kr, flyasiana.com"
+      }
     }
   ]
 }
