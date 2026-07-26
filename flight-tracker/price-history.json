@@ -425,6 +425,23 @@
         "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(카약 왕복 $606은 이코노미 추정). 역대 최저가 1,200만원 유지.",
         "source": "hotelscombined.co.kr, kayak.com, skyscanner.co.kr, booking.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-26T22:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 792만원보다 싼 확정가 없음. Kayak '서울-시드니 비즈니스 최저가 220만원(1인 추정)'이 재확인됐으나 날짜 미지정 일반 위젯가로 기존 215만원 SNS 특가와 동일 계열 추정 — 계속 판정 제외. 역대 최저가 792만원 유지.",
+        "source": "hotelscombined.co.kr, kayak.co.kr, qantas.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(8월 평균 왕복 101만원은 이코노미 추정). 역대 최저가 1,200만원 유지.",
+        "source": "trip.com, hotelscombined.co.kr, kayak.co.kr, stubbyplanner.com"
+      }
     }
   ]
 }
