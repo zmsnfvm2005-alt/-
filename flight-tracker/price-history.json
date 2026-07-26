@@ -357,6 +357,23 @@
         "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음. '체코항공' 재언급은 계속 오류로 판단해 무시(2024년 폐업 확인됨). 역대 최저가 1,200만원 유지.",
         "source": "trip.com, kayak.co.kr, hotelscombined.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-26T18:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 792만원보다 싼 확정가 없음. 역대 최저가 792만원 유지.",
+        "source": "trip.com, instagram.com, cathaypacific.com, skyscanner.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(KE969 프레스티지 스위트 탑승기 영상만 발견, 가격 정보 없음). 역대 최저가 1,200만원 유지.",
+        "source": "trip.com, koreanair.com, airpaz.com"
+      }
     }
   ]
 }
