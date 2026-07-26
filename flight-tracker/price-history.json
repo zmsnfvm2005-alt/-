@@ -391,6 +391,23 @@
         "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음. 역대 최저가 1,200만원 유지.",
         "source": "kayak.co.kr, hotelscombined.co.kr, koreanair.com, traveloka.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-26T20:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 792만원보다 싼 확정가 없음(NY-서울 아시아나 특가 $4,793는 무관 노선). 역대 최저가 792만원 유지.",
+        "source": "businessclass.com, flightconnections.com, kayak.com, koreanair.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(LAX-ICN 프레스티지 참고치만 확인, 무관 노선). 역대 최저가 1,200만원 유지.",
+        "source": "businessclasstravel.us, businessclasssignal.com, koreanair.com"
+      }
     }
   ]
 }
