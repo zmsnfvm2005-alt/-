@@ -561,6 +561,23 @@
         "note": "확정가 없음(SAS/LOT/루프트한자/아시아나 이코노미 가격만 재확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "hotelscombined.co.kr, kayak.co.kr, skyscanner.co.kr, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-27T06:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(콴타스 581.5만~750만원 범위 언급, 날짜 미지정). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "qantas.com, skyscanner.com, kayak.co.kr, instagram.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(에어프랑스 137.08만원, 서울발 449.7만원은 각각 이코노미/다른노선 추정). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "kayak.co.kr, hotelscombined.co.kr, airfrance.co.kr, trip.com"
+      }
     }
   ]
 }
