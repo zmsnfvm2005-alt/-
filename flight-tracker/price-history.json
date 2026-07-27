@@ -850,6 +850,23 @@
         "note": "확정가 없음(KLM/루프트한자 이코노미만 확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kayak.co.kr, hotelscombined.co.kr, trip.com, interpark.com, expedia.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-27T23:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "qantas.com, instagram.com, kayak.co.kr, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "kayak.co.kr, hotelscombined.co.kr, trip.com, airfrance.co.kr"
+      }
     }
   ]
 }
