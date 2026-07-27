@@ -459,6 +459,23 @@
         "note": "이번 시간도 날짜 지정 비즈니스 실가격 없음(KE '567.6만원부터' 헤드라인 재등장 — 과거 사고 사례와 동일 패턴이라 판정 제외 유지). 역대 최저가 1,200만원 유지.",
         "source": "trip.com, koreanair.com, singaporeair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-27T00:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음, 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, instagram.com, qantas.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음, 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "trip.com, kayak.co.kr, interpark.com, hotelscombined.co.kr"
+      }
     }
   ]
 }
