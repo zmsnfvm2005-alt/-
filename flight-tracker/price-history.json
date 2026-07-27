@@ -646,6 +646,23 @@
         "note": "확정가 없음(대한항공 '노선별 특가 모음전' 프로모션 발견했으나 프라하 특정 비즈니스가 확인 안 됨). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "trip.com, priviatravel.com, kayak.co.kr, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-27T11:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "qantas.com, instagram.com, hotelscombined.co.kr, cathaypacific.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(아시아나 이코노미 92.3만원만 확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, kayak.co.kr, interpark.com, skyscanner.co.kr, flyasiana.com"
+      }
     }
   ]
 }
