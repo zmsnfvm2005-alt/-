@@ -731,6 +731,23 @@
         "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "hotelscombined.co.kr, trip.com, kayak.co.kr, interpark.com, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-27T16:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(3월 월평균 1인 $2,922~$3,269 언급, 2인 환산 약 760만~850만원으로 기존 792만원과 비슷한 범위 — 날짜 미지정 월평균이라 판정 제외). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "momondo.com.au, cheapflights.com.au, kayak.com.au, google flights"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(7~8월 특가 $2,073, 유럽 originating 딜 1840유로 등은 시즌/출발지 달라 무관, 판정 제외). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "google flights, skyscanner.net, premium-flights.com, flightsfrom.com"
+      }
     }
   ]
 }
