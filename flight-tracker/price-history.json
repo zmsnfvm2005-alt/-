@@ -816,6 +816,23 @@
         "note": "확정가 없음(아시아나 평균 132.4만원/최저 105.7만원은 이코노미로 추정). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "trip.com, hotelscombined.co.kr, kayak.co.kr, koreanair.com, milemoa.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-27T21:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(콴타스 564.18만원은 6/22~8/2 출발 기준, 3월과 무관해 판정 제외). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "trip.com, kayak.co.kr, qantas.com, skyscanner.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(에어프랑스 137.08만원은 이코노미로 추정). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "trip.com, hotelscombined.co.kr, kayak.co.kr, airfrance.co.kr"
+      }
     }
   ]
 }
