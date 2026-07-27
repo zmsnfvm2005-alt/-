@@ -765,6 +765,23 @@
         "note": "확정가 없음(3~4월이 성수기 직전 비수기라는 일반 정보만 확인, 실가격 아님). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "namu.wiki, hotelscombined.co.kr, trip.com, kayak.co.kr, omio.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-27T18:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(콴타스 630.51만원 언급, 날짜/기준 불명확). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "qantas.com, instagram.com, hotelscombined.co.kr, kayak.co.kr, trip.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(아시아나 이코노미 92.3만원만 재확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "kayak.co.kr, hotelscombined.co.kr, interpark.com, omio.co.kr, trip.com"
+      }
     }
   ]
 }
