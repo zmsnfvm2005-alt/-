@@ -1173,6 +1173,23 @@
         "note": "확정가 없음(1월 평균 98.1만원은 이코노미). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "trip.com, hotelscombined.co.kr, kayak.co.kr, omio.co.kr, booking.com, etihad.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T18:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(콴타스 562.56만원 재확인, 날짜 미지정). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "hotelscombined.co.kr, kayak.co.kr, trip.com, qantas.com, skyscanner.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, kayak.co.kr, trip.com"
+      }
     }
   ]
 }
