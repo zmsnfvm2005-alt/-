@@ -1071,6 +1071,23 @@
         "note": "확정가 없음(1월 평균 115만원/10월 평균 234.4만원은 이코노미). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "trip.com, airfrance.co.kr, kayak.co.kr, card-gorilla.com, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T12:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(아시아나 5~7월 이코노미 특가는 무관). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "flyasiana.com, kayak.co.kr, qantas.com, skyscanner.com, expedia.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, trip.com, kayak.co.kr, interpark.com, flyasiana.com"
+      }
     }
   ]
 }
