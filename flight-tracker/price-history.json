@@ -952,6 +952,23 @@
         "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "trip.com, hotelscombined.co.kr, kayak.co.kr, omio.co.kr, koreanair.com, etihad.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T05:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(SYD-ICN 비즈니스 $825~ 언급, 날짜 미지정). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.com.au, skyscanner.net, cheapflights.com.au, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이코노미 $316~/$537~ 왕복만 확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "expedia.com, skyscanner.com, koreanair.com, singaporeair.com"
+      }
     }
   ]
 }
