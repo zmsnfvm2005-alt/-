@@ -1207,6 +1207,23 @@
         "note": "확정가 없음(사전예약 최저 84만원은 이코노미). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "trip.com, hotelscombined.co.kr, kayak.co.kr, omio.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T20:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(경유 항공사(에어아시아/중화항공) 언급 있었으나 직항 KE/OZ/QF 기준 유지). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, flightaware.com, skyscanner.com, trip.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(KE 프라하 '주1회 금요일' 언급 재등장 — 과거 확인된 '주4회'와 배치돼 계속 신뢰 안 함). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "overseas.mofa.go.kr, namu.wiki, hotelscombined.co.kr, kayak.co.kr"
+      }
     }
   ]
 }
