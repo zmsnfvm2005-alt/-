@@ -1003,6 +1003,23 @@
         "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "trip.com, hotelscombined.co.kr, interpark.com, kayak.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T08:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(아시아나 파리-경유 이코노미 특가는 무관 노선). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "flyasiana.com, instagram.com, qantas.com, koreanair.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(에어프레미아 뉴욕 특가는 무관 노선). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "interpark.com, trip.com, hotelscombined.co.kr, koreadaily.com, milemoa.com"
+      }
     }
   ]
 }
