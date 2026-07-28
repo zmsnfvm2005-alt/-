@@ -1258,6 +1258,23 @@
         "note": "확정가 없음(에어프랑스 $2,073는 7/20~8/4 출발 기준이라 3월과 무관, 판정 제외). KE/OZ 2개사 직항 재확인. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "google flights, farecompare.com, etihad.com, flightconnections.com, expedia.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T23:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(콴타스 562.56만원 재확인, 날짜 미지정). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "trip.com, kayak.co.kr, skyscanner.com, qantas.com, expedia.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, kayak.co.kr, trip.com, skyscanner.co.kr, etihad.com"
+      }
     }
   ]
 }
