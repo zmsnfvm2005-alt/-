@@ -935,6 +935,23 @@
         "note": "확정가 없음(SAS/LOT/루프트한자/아시아나 이코노미만 재확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "hotelscombined.co.kr, kayak.co.kr, omio.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T04:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 특가 계속 반복, 비검증). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, trip.com, qantas.com, kayak.co.kr"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "trip.com, hotelscombined.co.kr, kayak.co.kr, omio.co.kr, koreanair.com, etihad.com"
+      }
     }
   ]
 }
