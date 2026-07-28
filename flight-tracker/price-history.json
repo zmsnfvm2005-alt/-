@@ -884,6 +884,23 @@
         "note": "확정가 없음(8월 평균 왕복 101.5만원, 비즈니스 443.5만원은 날짜/등급 불일치로 판정 제외). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "hotelscombined.co.kr, trip.com, kayak.co.kr, stubbyplanner.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T01:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(콴타스 564.18만원 재확인, 날짜 미지정). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, skyscanner.com, qantas.com, koreanair.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(대한항공 비즈니스 2,300~3,100유로 일반 시세 재확인, 날짜 미지정). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "trip.com, hotelscombined.co.kr, kayak.co.kr, overseas.mofa.go.kr"
+      }
     }
   ]
 }
