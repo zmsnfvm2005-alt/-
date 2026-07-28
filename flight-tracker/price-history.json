@@ -867,6 +867,23 @@
         "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kayak.co.kr, hotelscombined.co.kr, trip.com, airfrance.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T00:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, trip.com, instagram.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(8월 평균 왕복 101.5만원, 비즈니스 443.5만원은 날짜/등급 불일치로 판정 제외). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, trip.com, kayak.co.kr, stubbyplanner.com"
+      }
     }
   ]
 }
