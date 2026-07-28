@@ -1139,6 +1139,23 @@
         "note": "확정가 없음(체코행 항공편 저녁 11:05 출발 등 스케줄 정보만 확인, 가격 아님). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "hotelscombined.co.kr, trip.com, kayak.co.kr, omio.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-28T16:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(콴타스 581.5만원 재확인, 날짜 미지정). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "qantas.com, instagram.com, skyscanner.com, flightaware.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, instagram.com, namu.wiki, skyscanner.co.kr, trip.com, navitime.co.kr"
+      }
     }
   ]
 }
