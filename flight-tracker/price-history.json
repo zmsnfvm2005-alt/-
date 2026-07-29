@@ -3,7 +3,7 @@
     "origin": "ICN",
     "destinations": {
       "sydney": { "code": "SYD", "airlines": ["KE", "OZ", "QF"], "status": "active_tracking" },
-      "prague": { "code": "PRG", "airlines": ["KE969/970", "OZ (2025년 신규취항, 편명 확인 필요)"], "status": "active_tracking", "preferred_aircraft": "787-10 (도어형 커플석 배정 시 최우선 후보)" }
+      "prague": { "code": "PRG", "airlines": ["KE935/936 (2026-07-29 주체코 대사관 공지 등 4개 독립 출처로 재확인: 금요일 인천12:45→프라하16:55 / 토요일 프라하18:50→익일 인천11:50, 주1회 — 기존 'KE969/970 주4회' 기록보다 신뢰도 높음, 완전 확정은 아니라 병기)", "KE969/970 (과거 확인, 현재는 오확인 가능성 있어 재검증 필요)", "OZ (2025년 신규취항, 편명 확인 필요)"], "status": "active_tracking", "preferred_aircraft": "787-10 (도어형 커플석 배정 시 최우선 후보)" }
     },
     "depart": "2026-03-20",
     "return": "2026-03-30",
@@ -1427,6 +1427,23 @@
         "confidence": "n/a",
         "note": "⚠️ 확정가 없음. 이번에 처음으로 '대한항공 KE935/936, 금요일 인천 12:45 출발→16:55 프라하 도착 / 토요일 프라하 18:50 출발→익일 11:50 인천 도착, 주1회'라는 구체적 편명·시간이 나옴. 과거 여러 조사에서는 'KE969/970, 주4회(격일)'로 확인됐던 것과 다름. 이번이 세 번째 유사 언급(편명까지 나온 건 처음)이라 단순 노이즈로 넘기기 애매함 — 다음 조사 시 KE935/936과 KE969/970 둘 다 검색해서 실제 어느 게 맞는지 교차 확인 필요. 목표가/역대최저가 판정에는 영향 없음(가격 정보 아님). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "namu.wiki, overseas.mofa.go.kr, hotelscombined.co.kr, trip.com"
+      }
+    },
+    {
+      "datetime_utc": "2026-07-29T09:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "trip.com, kayak.co.kr, skyscanner.com, qantas.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "⚠️ KE935/936(금요일 출발/토요일 프라하발, 주1회) 스케줄을 주체코 대사관 공지(cze.mofa.go.kr, '대한항공 프라하/인천 직항 재운항 안내') + lottetour.com + korean.sk + czechkoreans.com 등 4개 독립 출처로 재확인 — 기존 'KE969/970 주4회' 기록보다 신뢰도 우위로 판단, trip.destinations.prague.airlines에 반영함(단, 100% 확정은 아니라 KE969/970도 병기 유지). 요일 계산 결과 2026-03-20(계획된 출발일)은 금요일이라 KE935 출발편과 정확히 맞음. 다만 2026-03-30(귀국 희망일)은 월요일인데 KE936 귀국편은 토요일 프라하 출발 1편뿐이라, 주1회 스케줄이 맞다면 희망 귀국일에는 이 편이 없을 수 있음 — 다음 조사 시 날짜를 3/20 출발 고정하고 귀국일을 3/21(토, 당일 프라하 출발 가능일)로 바꿔서 가격을 재검색하거나, 아시아나(OZ) 편명·요일을 확인해 대안으로 검토 필요. 확정가 자체는 이번에도 못 찾음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "cze.mofa.go.kr, lottetour.com, korean.sk, czechkoreans.com, trip.com"
       }
     }
   ]
