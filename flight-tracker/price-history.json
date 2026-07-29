@@ -1632,6 +1632,23 @@
         "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kr.trip.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-29T22:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 프라하 위주라 시드니 관련 신규 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "namu.wiki"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 787-10이 2024-09-11부터 프라하 등 노선에 투입되고 2026-03 현재도 787-9와 혼용 투입 중이라는 일반 정보 재확인(가격/특정 편명 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "namu.wiki, milemoa.com, koreanair.com, flyasiana.com"
+      }
     }
   ]
 }
