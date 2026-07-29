@@ -1615,6 +1615,23 @@
         "note": "확정가 없음(아시아나 '아시아나에서 프라하를 만나다!' 이벤트 페이지 발견했으나 구체적 요금 미노출, 예약센터 문의 안내뿐). 아시아나 '트래블 마트 2026 스프링'(3/23~4/13) 프로모션은 한국행(인바운드) 이코노미 좌석 할인 위주라 우리 노선(아웃바운드 비즈니스)과 무관, 날짜도 3월 출발과 겹치지 않는 이벤트 기간이라 판정 제외. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "flyasiana.com, kr.trip.com, koreadaily.com, priviatravel.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-29T20:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 특가 계속 반복(비검증, 조건 불명확), 젯스타/카약 왕복 530,883원·725,891원은 이코노미). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, instagram.com, kr.trip.com, jetstar.com, skyscanner.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "kr.trip.com"
+      }
     }
   ]
 }
