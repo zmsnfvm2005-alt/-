@@ -1649,6 +1649,23 @@
         "note": "확정가 없음. 787-10이 2024-09-11부터 프라하 등 노선에 투입되고 2026-03 현재도 787-9와 혼용 투입 중이라는 일반 정보 재확인(가격/특정 편명 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "namu.wiki, milemoa.com, koreanair.com, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-29T23:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 특가 계속 반복(비검증), 트립닷컴 왕복 1,277,332원은 이코노미). 콴타스 공식 사이트는 날짜 지정 없이 세금/환율 안내 문구만 확인. 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kr.trip.com, instagram.com, qantas.com, kayak.co.kr, skyscanner.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "kr.trip.com"
+      }
     }
   ]
 }
