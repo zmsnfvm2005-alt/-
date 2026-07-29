@@ -1513,6 +1513,23 @@
         "note": "확정가 없음(카약 '프라하행 최저가 923,046원'은 이코노미·날짜 미지정 일반 위젯가라 판정 제외, 인터파크 검색결과는 6월 출발 이코노미로 무관). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kr.trip.com, interpark.com, kayak.co.kr, skyscanner.co.kr, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-29T14:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(아시아나 '2025년 1~2월 $1,340부터' 과거 프로모션 재등장, 시기 불일치로 판정 제외). 3사(KE/OZ/QF) 모두 3월 날짜 지정 실가격은 못 찾음. 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "loyaltylobby.com, koreanair.com, businessclass.com, qantas.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "koreanair.com, flyasiana.com"
+      }
     }
   ]
 }
