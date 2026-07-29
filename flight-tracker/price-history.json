@@ -1275,6 +1275,23 @@
         "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "hotelscombined.co.kr, kayak.co.kr, trip.com, skyscanner.co.kr, etihad.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-29T00:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(오전 출발 평균 151.4만원은 이코노미). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "trip.com, kayak.co.kr, qantas.com, skyscanner.com, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, trip.com, kayak.co.kr, omio.co.kr, skyscanner.co.kr, flyasiana.com"
+      }
     }
   ]
 }
