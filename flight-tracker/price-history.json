@@ -1581,6 +1581,23 @@
         "note": "확정가 없음(카약 341,034원/449,550원은 전 항공사 통합 이코노미 최저가, 날짜 미지정이라 판정 제외). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kayak.co.kr, flyasiana.com, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-29T18:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(대한항공 공식 사이트 검색결과에서도 2026-03-20 특정 날짜의 프레스티지 요금은 노출되지 않음, 일반 노선 소개 페이지만 확인). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "koreanair.com, travelocity.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "koreanair.com"
+      }
     }
   ]
 }
