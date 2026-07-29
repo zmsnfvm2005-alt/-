@@ -1530,6 +1530,23 @@
         "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "koreanair.com, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-29T15:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 프라하 위주라 시드니 관련 신규 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "skyscanner.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(에어프랑스 '1,370,800원부터'는 날짜 미지정 이코노미 헤드라인, 카약 341,034원도 이코노미로 추정 — 둘 다 판정 제외). 787-10 프레스티지 커플석 관련 소개 페이지만 재확인, 3월 실가격/배정 스케줄 정보는 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "kr.trip.com, airfrance.co.kr, kayak.co.kr, koreanair.com, milemoa.com"
+      }
     }
   ]
 }
