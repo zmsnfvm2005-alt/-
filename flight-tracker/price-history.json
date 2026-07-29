@@ -1377,6 +1377,23 @@
         "note": "확정가 없음(1월 평균 115만원/4월 평균 118.1만원은 이코노미). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "trip.com, hotelscombined.co.kr, kayak.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-07-29T06:13",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(오전 출발 평균 151.4만원은 이코노미). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "trip.com, kayak.co.kr, skyscanner.com, qantas.com, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(오전 출발 평균 140.4만원은 이코노미). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, trip.com, kayak.co.kr, omio.co.kr"
+      }
     }
   ]
 }
