@@ -1853,6 +1853,23 @@
         "note": "확정가 없음(카약 341,034원은 이코노미, 실제 예약 후기·구체적 가격 검색 결과 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kr.trip.com, kayak.co.kr, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-30T12:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 특가 재등장(비검증), 아시아나 하와이/시애틀 특가는 무관 노선). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, kr.trip.com, threads.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
