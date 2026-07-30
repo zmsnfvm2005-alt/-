@@ -1887,6 +1887,23 @@
         "note": "확정가 없음(카약 449,550원은 이코노미·날짜 미지정, 아시아나 '프라하를 만나다' 이벤트 페이지는 여전히 구체적 요금 미노출). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kayak.co.kr, flyasiana.com, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-30T14:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(트립닷컴 '3월 편도 평균 295,200원'은 일반 운임 기준으로 이코노미로 추정, 날짜/등급 불일치 판정 제외). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kr.trip.com, qantas.com, kayak.com, skyscanner.com, airpaz.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
