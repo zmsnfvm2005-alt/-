@@ -1768,6 +1768,23 @@
         "note": "확정가 없음. 대한항공 787-9 프레스티지 좌석 일반 후기만 확인(가격 정보 없음), 아시아나 프라하 관련 검색결과는 이번엔 나오지 않음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "blog.heejungkim.com, koreanair.com, seatmaps.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-30T06:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 프라하 위주라 시드니 관련 신규 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "businessclasstravel.us"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(대한항공 '프레스티지 5,676,100원부터' 헤드라인 재등장, 과거 사고 사례와 동일 패턴이라 계속 판정 제외). 참고: 이번 검색결과에 '대한항공 주4회, 아시아나 주3회 직항'이라는 요약 정보가 나와 기존 KE935/936(주1회) 기록과 다시 배치됨 — 편명/횟수 정보가 검색마다 계속 엇갈리고 있어 신뢰도 낮은 요약성 문구로 판단, airlines 필드는 그대로 유지(추가 변경 안 함). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "koreanair.com, businessclasstravel.us, travelarbitrage.net, google.com/travel/flights, upgradedpoints.com"
+      }
     }
   ]
 }
