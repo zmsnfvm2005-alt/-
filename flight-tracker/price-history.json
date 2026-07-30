@@ -1734,6 +1734,23 @@
         "note": "확정가 없음. KE935(금 12:45 ICN→16:55 PRG)/KE936(토 18:50 PRG→익일 11:50 ICN) 스케줄 재확인(대사관 공지 등 동일 출처). 비즈니스 2,300~3,100유로 수준이라는 일반 요금 재언급도 기존과 동일(구입시점/좌석상황 따라 변동한다는 문구 포함, 날짜 미지정이라 판정 제외 유지). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "cze.mofa.go.kr, korean.sk, czechkoreans.com, namu.wiki, lottetour.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-30T04:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(카약 왕복 856,123원/362,582원/285,374원 모두 이코노미·날짜 미지정). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, qantas.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "kayak.co.kr"
+      }
     }
   ]
 }
