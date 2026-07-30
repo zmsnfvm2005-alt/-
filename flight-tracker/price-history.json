@@ -1955,6 +1955,23 @@
         "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "-"
       }
+    },
+    {
+      "datetime_utc": "2026-07-30T18:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(8월 특가 330,200원/424,700원은 이코노미·8월 광복절 연휴 기준으로 3월과 무관, 판정 제외). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kr.trip.com, kayak.co.kr, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "koreanair.com"
+      }
     }
   ]
 }
