@@ -2040,6 +2040,23 @@
         "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "-"
       }
+    },
+    {
+      "datetime_utc": "2026-07-30T23:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 프라하 좌석 위주라 시드니 관련 신규 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "-"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. 아시아나 프라하행 A350 좌석 구성(비즈니스 스마티움 28석, 이코노미 스마티움 36석, 이코노미 247석) 재확인, 대한항공은 A350 미보유(787 계열만 운용)라는 정보도 재확인 — 가격 정보는 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "m.flyasiana.com, card-gorilla.com, airviewkorea.com, koreanair.com, airtravelinfo.kr"
+      }
     }
   ]
 }
