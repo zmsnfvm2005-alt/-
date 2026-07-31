@@ -2346,6 +2346,23 @@
         "note": "확정가 없음. 787-10이 2024-09-11부터 프라하 등 노선에 투입된다는 기존 정보 재확인(대한항공 787-10 총 12대 보유, 53대 추가 예정), 2026-08 구체적 배정 스케줄/가격 정보는 없음. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "card-gorilla.com, namu.wiki, koreanair.com, ratregistry.org"
       }
+    },
+    {
+      "datetime_utc": "2026-07-31T17:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(스쿠트/젯스타 왕복 751,496원/769,006원은 이코노미, 인스타 특가는 상세 미확인). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, instagram.com, skyscanner.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
