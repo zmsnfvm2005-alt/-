@@ -2176,6 +2176,23 @@
         "note": "확정가 없음(아시아나 '신규취항 기념 왕복 1,282,600원' 특가는 2025-03-31~2025-10-23 유효기간의 작년 프로모션으로 이미 만료됐고 이코노미로 추정 — 판정 제외. '3월 1,199,522원부터'도 마찬가지로 이코노미·연도 불명 추정치). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kr.trip.com, traveloka.com, playwings.co.kr, kayak.co.kr, hotelscombined.co.kr, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-31T07:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(젯스타/티웨이/가루다 등 저가항공 이코노미 가격만 확인, 비즈니스 구체가 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "hotelscombined.co.kr, cathaypacific.com, kr.trip.com, kayak.co.kr"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
