@@ -2193,6 +2193,23 @@
         "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "-"
       }
+    },
+    {
+      "datetime_utc": "2026-07-31T08:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 프라하 위주라 시드니 관련 신규 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "-"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음. KE935/936 스케줄 재확인(동일), 비즈니스 2,300~3,100유로 일반 시세도 동일(날짜 미지정, 판정 제외). 이번엔 대한항공 프라하 지점 직접 문의 연락처(이메일 choibj@koreanair.com, 전화 +420-222-710-171)까지 확인됨 — 참고용으로만 기록. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "cze.mofa.go.kr, kr.trip.com, airpaz.com, koreanair.com, wego.com"
+      }
     }
   ]
 }
