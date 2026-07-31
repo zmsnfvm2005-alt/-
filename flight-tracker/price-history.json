@@ -2278,6 +2278,23 @@
         "note": "확정가 없음(카약 341,034원은 이코노미, 트립닷컴 1월 평균 1,150,100원도 이코노미·날짜 미지정 재확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kr.trip.com, kayak.co.kr, namu.wiki, flyasiana.com, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-07-31T13:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(카약 왕복 285,374원/423,172원/530,883원/1,277,332원 모두 이코노미). 이번 검색결과가 다시 '콴타스 포함 5개사 운항'이라 언급했으나, 7/30~31 사이에 SBS Korean·나무위키 등으로 확인한 '콴타스 단항' 사실이 더 신뢰도 높다고 판단해 무시(일반 통계성 페이지가 갱신 안 됐을 가능성). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, ttang.com, flyasiana.com, skyscanner.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
