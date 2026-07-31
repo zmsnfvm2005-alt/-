@@ -2142,6 +2142,23 @@
         "note": "확정가 없음(대한항공/아시아나 프레스티지석 일반 소개 페이지만 확인, 가격 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "koreanair.com, flyasiana.com, prestigegorilla.net"
       }
+    },
+    {
+      "datetime_utc": "2026-07-31T05:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(카약 왕복 285,374원은 이코노미, 인스타 215만원 특가 재등장(비검증)). 참고: 이번 검색결과 운항 항공사 목록에도 '티웨이·젯스타·아시아나·대한항공'만 나오고 콴타스는 빠져있어 지난 시간 확인한 콴타스 단항 사실이 재차 뒷받침됨. 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "airpaz.com, kayak.co.kr, kr.trip.com, instagram.com, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
