@@ -2261,6 +2261,23 @@
         "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "-"
       }
+    },
+    {
+      "datetime_utc": "2026-07-31T12:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 프라하 위주라 시드니 관련 신규 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "-"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(카약 341,034원은 이코노미, 트립닷컴 1월 평균 1,150,100원도 이코노미·날짜 미지정 재확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "kr.trip.com, kayak.co.kr, namu.wiki, flyasiana.com, koreanair.com"
+      }
     }
   ]
 }
