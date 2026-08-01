@@ -2805,6 +2805,23 @@
         "note": "확정가 없음(인천-로마 아시아나 400만원 언급은 다른 노선, 무관). flyasiana.com 검색페이지 URL에 또 다른 스팸성 문구(중국어 도박 관련) 발견됐으나 방문하지 않고 무시함. 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kr.trip.com, threads.com, koreanair.com, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-08-01T22:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 특가 계속 반복(비검증), 카약 왕복 285,374원은 이코노미). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, instagram.com, skyscanner.com, flyasiana.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
