@@ -2499,6 +2499,23 @@
         "note": "확정가 없음(대한항공/아시아나 서비스·마일리지 일반 정보만 확인, 가격 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "namu.wiki, kr.trip.com, flyasiana.com, koreanair.com, milemoa.com"
       }
+    },
+    {
+      "datetime_utc": "2026-08-01T04:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(스쿠트/젯스타 왕복 751,496원/769,006원, 카약 423,172원/285,374원/320,669원/1,277,332원 모두 이코노미). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "skyscanner.com, kayak.co.kr, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
