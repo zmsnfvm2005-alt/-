@@ -3247,6 +3247,23 @@
         "note": "확정가 없음(인천-로마 아시아나 400만원 재언급, 다른 노선이라 무관). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "threads.com, koreanair.com, skyscanner.co.kr, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-08-03T01:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 특가 계속 반복(비검증), 실시간 예약 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "cathaypacific.com, namu.wiki, instagram.com, koreanair.com, flyasiana.com, milemoa.com, travelhoju.com.au"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
