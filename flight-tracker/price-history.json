@@ -4080,6 +4080,23 @@
         "note": "확정가 없음(카약 341,034원은 이코노미, 에어프랑스 1,370,800원은 경유편이라 추적 대상(KE/OZ 직항) 아니라 제외, 대한항공 787-9/787-10 프레스티지석 소개 페이지는 가격정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kayak.co.kr, airfrance.co.kr, koreanair.com, priviatravel.com"
       }
+    },
+    {
+      "datetime_utc": "2026-08-05T02:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 재등장(비검증, 날짜미지정), 스카이스캐너는 JS 렌더링이라 직접 열람 불가, qantas.com 재노출되었으나 기존 단항 확인 유지). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, kr.trip.com, skyscanner.com, skyscanner.co.kr, qantas.com, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
