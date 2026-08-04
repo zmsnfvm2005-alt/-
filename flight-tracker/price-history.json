@@ -4012,6 +4012,23 @@
         "note": "확정가 없음(hotelscombined/kayak 923,046원·498,200원은 모두 이코노미 일반 최저가, 날짜/좌석 지정 비즈니스 정보 아님). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "hotelscombined.co.kr, kayak.co.kr, skyscanner.co.kr, flyasiana.com, koreanair.com"
       }
+    },
+    {
+      "datetime_utc": "2026-08-04T22:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(카약 이코노미 일반가만 노출, qantas.com 예약페이지는 이전에 확인한 단항 사실과 배치되는 캐시 페이지로 판단해 미채택). 대한항공 A380 시드니 직항 셀레스티얼 바(프레스티지/일등석 전용) 언급은 참고용. 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "kayak.co.kr, koreanair.com, qantas.com, card-gorilla.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
