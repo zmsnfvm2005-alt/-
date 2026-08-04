@@ -3995,6 +3995,23 @@
         "note": "확정가 없음(나무위키 재확인 — 787-10 2024-09-11 프라하 투입 사실만 재확인, 2026-03 구체 편명/가격 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "namu.wiki"
       }
+    },
+    {
+      "datetime_utc": "2026-08-04T21:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 프라하 위주라 시드니 관련 신규 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "-"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(hotelscombined/kayak 923,046원·498,200원은 모두 이코노미 일반 최저가, 날짜/좌석 지정 비즈니스 정보 아님). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "hotelscombined.co.kr, kayak.co.kr, skyscanner.co.kr, flyasiana.com, koreanair.com"
+      }
     }
   ]
 }
