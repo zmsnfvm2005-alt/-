@@ -4284,6 +4284,23 @@
         "note": "확정가 없음(트립닷컴/마일리지 안내/이벤트페이지 재확인, 날짜 지정 가격정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kr.trip.com, koreanair.com, flyasiana.com, skyscanner.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-08-05T14:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 재등장(비검증), '티웨이·콴타스·젯스타·대한항공·아시아나 5개사 운항' 언급은 콴타스 2025-05 단항 확인과 배치되는 캐시성 정보로 판단해 미채택, 카약/스카이스캐너는 이코노미 일반가). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, kayak.co.kr, kayak.com, skyscanner.co.kr, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
