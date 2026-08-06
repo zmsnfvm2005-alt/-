@@ -4896,6 +4896,23 @@
         "note": "확정가 없음(마일리지 통합안내·이벤트페이지·운항스케줄 안내 재확인, 날짜 지정 비즈니스 가격정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "koreanair.com, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-08-07T02:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원·땡처리항공권 일반 페이지 등 기존 노이즈만 재확인, 날짜 지정 가격 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, koreanair.com, ttang.com, skyscanner.com, kayak.com, flyasiana.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
