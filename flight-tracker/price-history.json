@@ -4794,6 +4794,23 @@
         "note": "확정가 없음('체코항공 취항' 언급 재등장 — 2024년 폐업 확인 기존 판단 유지, 미채택. 카약 341,034원/1,112,089원(25%가 이하)은 이코노미 일반 통계). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "kr.trip.com, namu.wiki, flyasiana.com, kayak.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-08-06T20:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 재등장(비검증), 콴타스 재언급은 기존 단항 확인 판단 유지 미채택, 카약 285,374원/1,277,332원은 이코노미 일반가). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, kayak.co.kr, skyscanner.co.kr, travelhoju.com.au, flyasiana.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
