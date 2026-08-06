@@ -4692,6 +4692,23 @@
         "note": "확정가 없음(카약 341,034원은 이코노미, '체코항공 취항'·'아시아나 트윈 슬라이딩 도어' 언급 재등장 — 둘 다 기존 확인 사실과 배치돼 미채택). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "clubrichtour.co.kr, kayak.co.kr, koreanair.com, flyasiana.com"
       }
+    },
+    {
+      "datetime_utc": "2026-08-06T14:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원·travelhoju 8월특가 등 기존 노이즈만 재확인, 카약 285,374원은 이코노미). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, kayak.co.kr, skyscanner.co.kr, travelhoju.com.au, flyasiana.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
