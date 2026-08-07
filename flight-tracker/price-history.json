@@ -5066,6 +5066,23 @@
         "note": "확정가 없음(Threads 로마/바르셀로나/이스탄불/파리/밀라노 마일리지 좌석·인천-로마 가격비교 글은 모두 프라하와 무관한 노선이라 제외, 마일리지 통합안내 재확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "threads.com, koreanair.com, flyasiana.com, skyscanner.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-08-07T12:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 재등장(비검증), 나무위키/공식 예약페이지 재확인, 날짜 지정 가격 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, namu.wiki, koreanair.com, kayak.com, flyasiana.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
