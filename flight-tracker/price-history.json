@@ -5083,6 +5083,23 @@
         "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "-"
       }
+    },
+    {
+      "datetime_utc": "2026-08-07T13:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 프라하 위주라 시드니 관련 신규 정보 없음). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "-"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(Threads 로마/바르셀로나 등 유럽 마일리지 좌석 글은 프라하와 무관해 제외, 아시아나 존보딩 시행 뉴스는 가격과 무관, 마일리지 통합안내 재확인). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "threads.com, airportal.go.kr, koreanair.com, flyasiana.com, skyscanner.co.kr"
+      }
     }
   ]
 }
