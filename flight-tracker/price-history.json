@@ -5032,6 +5032,23 @@
         "note": "확정가 없음(허니문 패키지/이벤트페이지/일반 정보만 확인, 날짜 지정 비즈니스 가격정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
         "source": "clubrichtour.co.kr, kr.trip.com, flyasiana.com, koreanair.com, skyscanner.co.kr"
       }
+    },
+    {
+      "datetime_utc": "2026-08-07T10:14",
+      "SYD": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(인스타 215만원 재등장(비검증), 카약 285,374원은 이코노미). 역대 최저가 792만원 유지(목표가 700만원 대비 달성률 88%).",
+        "source": "instagram.com, kayak.co.kr, skyscanner.co.kr, koreanair.com, flyasiana.com, milemoa.com"
+      },
+      "PRG": {
+        "price_krw_2p": null,
+        "airline": null,
+        "confidence": "n/a",
+        "note": "확정가 없음(이번 검색은 시드니 위주라 프라하 관련 신규 정보 없음). 역대 최저가 1,200만원 유지(목표가 900만원 대비 달성률 75%).",
+        "source": "-"
+      }
     }
   ]
 }
